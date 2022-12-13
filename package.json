@@ -1,0 +1,26 @@
+{
+  "name": "node_proyecto",
+  "version": "1.0.0",
+  "description": "Primera entrega Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learech/Primera-entrega-Open-Bootcamp.git"
+  },
+  "keywords": [
+    "node",
+    "OpenBootcamp",
+    "first",
+    "project"
+  ],
+  "author": "Lea Rech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learech/Primera-entrega-Open-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/learech/Primera-entrega-Open-Bootcamp#readme"
+}
